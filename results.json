@@ -1,0 +1,18 @@
+{
+  "project_title": "Jungle Anomaly Finder – NDVI Satellite Explorer",
+  "max_ndvi": 0.912,
+  "candidate_count": 5,
+  "locations": [
+    {
+      "site_id": "O3",
+      "lat": -1.9348,
+      "lon": -55.5153,
+      "ndvi": 0.89,
+      "toponym": "Teso dos Bichos",
+      "anomaly_score": 0.78
+    }
+  ],
+  "algorithms": ["NDVI", "IsolationForest", "KMeans"],
+  "cultural_context": "The toponym 'Teso' indicates a mound, possibly man-made. This aligns with ancient settlement patterns in the region.",
+  "fuwa_insight": "Fuwa guided the interpretation instinctively, sensing resonance near O3."
+}
