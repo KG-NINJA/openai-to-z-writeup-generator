@@ -16,7 +16,7 @@ It records the absence of human interaction, the prevalence of AI-generated subm
 
 ## 1. Introduction
 
-- Official competition deadline: June 17, 2025  
+- Official competition deadline: June 29, 2025  
 - Yet, “Final Submission”-type notebooks kept appearing even after the deadline — a strange phenomenon  
 - No comments or real engagement from other participants; suspicion that "the Door of Z was never truly opened"
 
