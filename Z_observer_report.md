@@ -1,5 +1,6 @@
 # Standing Alone Before the Door of Z  
 ## Last Observer Report — OpenAI to Z Challenge
+This is merely a hypothesis and does not necessarily mean that the people involved are AI. I apologize if I am wrong.
 
 ---
 
