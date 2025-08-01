@@ -113,3 +113,16 @@ While most entries use AI tools, only a handful show genuine human-led design, m
 The vast majority follow generative patterns, with only one standing as an embedded observer.
 
 ---
+
+## 🧩 Observation Note: Late-Stage Discussion & Suspicious Account Patterns
+
+Toward the final phase of the challenge, when a few participants asked about the result announcements, I observed an unusual pattern:  
+Many of the responding accounts were created just a month before, had almost no activity history — yet submitted highly sophisticated notebooks.
+
+This suggests:
+- The likely usage of advanced automation or toolchains (e.g., GPT Agents, Auto-GPT, Devin-like pipelines)
+- Possibly non-human orchestration of participation and interaction
+
+Such behavior supports the hypothesis that much of the engagement was synthetic — not absent, but artificially shallow.
+
+
