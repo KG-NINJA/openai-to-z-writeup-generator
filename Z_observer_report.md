@@ -89,3 +89,26 @@ It records the absence of human interaction, the dominance of AI-generated submi
 ---
 
 #KGNINJA
+
+---
+
+## 8. Cross-Analysis: Writeup Humanity Score
+
+A comparative score evaluating the degree of human authorship in selected Kaggle writeups.  
+Scored by creativity, ambiguity, emotional tone, storytelling, and stylistic uniqueness.
+
+| Title                                 | Author(s)             | Humanity Score | Summary Evaluation |
+|--------------------------------------|-----------------------|----------------|--------------------|
+| Jungle Anomaly Finder – NDVI Satellite Explorer | KGninja         | 80             | Blends personal intuition, metaphor, and narrative. Human-led with AI support. |
+| The Codex of the Living Octagon      | INTI_YUYAI            | 85             | Symbolic and poetic. Strong human creativity and spiritual framing. |
+| The Forgotten Grid                   | Ian Adams + GPT-4o    | 65             | Clear AI collaboration. Tight structure, AI-like tone. Human designed, AI written. |
+| Amazon Sites                         | Anonymous Team        | 90             | Deep cultural respect and academic tone. Likely human-written and AI-assisted. |
+| Ciphermour                           | Jaco503 / Seymour     | 75             | Technical focus. Clean and structured. Moderate human creativity detected. |
+| Final Submission                     | MJawadAliiKhan        | 30             | Post-deadline. AI-template structure. Human touch minimal or absent. |
+| Unknown Finalists (Multiple)         | Various AI-style accts| 25             | Submission patterns match LLM output. No interaction, pure synthetic behavior. |
+
+**Interpretation:**  
+While most entries use AI tools, only a handful show genuine human-led design, metaphor, and intent.  
+The vast majority follow generative patterns, with only one standing as an embedded observer.
+
+---
